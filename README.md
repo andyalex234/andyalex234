@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andenet Alexander</h1>
-<h3 align="center">A passionate software engineer from Ethiopia. I'm currently learning ML and data engineering and looking forward to get an entry level job on ML engineering or data science job.</h3>
+<h3 align="center">A passionate software engineer from Ethiopia. I'm currently learning ML and data engineering and looking forward to get an entry level job on ML engineering or data engineering job.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyalex234&label=Profile%20views&color=0e75b6&style=flat" alt="andyalex234" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyalex234" alt="andyalex234" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/andenetalexand2" target="blank"><img src="https://img.shields.io/twitter/follow/andenetalexand2?logo=twitter&style=for-the-badge" alt="andenetalexand2" /></a> </p>
 
