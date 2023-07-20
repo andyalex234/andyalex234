@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andenet Alexander</h1>
 <h4 align="center">Junior ML Engineer with a software engineering background and experience working on end to end Machine Learning and Deep Learning projects including data preparation and processing (Numpys, Pandas), visual analytics (Seaborn, Plotly), machine learning (Scikitlearn), building deep learning models (TensorFlow, Keras), alongside model deployment, maintenance, and business intelligence reporting.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andyalex234&label=Profile%20views&color=0e75b6&style=flat" alt="andyalex234" /> </p>
-
-<p align="left"> <a href="https://twitter.com/andenetalexand2" target="blank"><img src="https://img.shields.io/twitter/follow/andenetalexand2?logo=twitter&style=for-the-badge" alt="andenetalexand2" /></a> </p>
-
 - 🌱 I’m currently learning **ML and data engineering.**
 
 - 🤝 I’m looking for help with [Vim Cheatsheet](https://github.com/andyalex234/vim-cheatsheet)
